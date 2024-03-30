@@ -25,6 +25,7 @@
     {"name":"spr_player_Right1","order":2,"path":"sprites/spr_player_Right1/spr_player_Right1.yy",},
     {"name":"spr_player_up","order":6,"path":"sprites/spr_player_up/spr_player_up.yy",},
     {"name":"spr_player_up1","order":4,"path":"sprites/spr_player_up1/spr_player_up1.yy",},
+    {"name":"spr_Tile","order":9,"path":"sprites/spr_Tile/spr_Tile.yy",},
     {"name":"SPR_wall","order":1,"path":"sprites/SPR_wall/SPR_wall.yy",},
     {"name":"Sprite6","order":16,"path":"sprites/Sprite6/Sprite6.yy",},
   ],
