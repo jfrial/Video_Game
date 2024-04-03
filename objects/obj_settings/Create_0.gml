@@ -1,0 +1,1 @@
+// this is code to pull from font sprites. I changed it to comment so the game could run without removing the code. global.font_main = font_add_sprite(spr_main_font, 32, true, 1);
