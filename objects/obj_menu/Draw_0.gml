@@ -1,6 +1,6 @@
 draw_set_font(global.font_main);
 
-height = op_border*2 + string_height(option[0, 0]) + (op_length-1)*op_space;
+height = op_border * 2 + font_get_size(Font_default) + (op_length - 1) * op_space;
 
 //center menu
 x = camera_get_view_x(view_camera[0]) + camera_get_view_width(view_camera[0])/2 -width/2;
